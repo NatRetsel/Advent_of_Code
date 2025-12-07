@@ -3,7 +3,7 @@
  * We are given instructions on how to spin the dial, L80 will mean to turn the dial left for 80 clicks,
  * one click for a number.
  *
- * Find the number of times the arrow hits 0
+ * Find the number of times the arrow hits 0 AT THE END of each rotation.
  *
  * Strategy
  * - Simulation
